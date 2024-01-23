@@ -1,0 +1,34 @@
+[
+  {
+    "image": "../img/koppel1.png",
+    "name": "kop1"
+  },
+  {
+    "image": "../img/koppel2.png",
+    "name": "kop2"
+  },
+  {
+    "image": "../img/koppel3.png",
+    "name": "kop3"
+  },
+  {
+    "image": "../img/koppel4.png",
+    "name": "kop4"
+  },
+  {
+    "image": "../img/koppel5.png",
+    "name": "kop5"
+  },
+  {
+    "image": "../img/koppel6.png",
+    "name": "kop6"
+  },
+  {
+    "image": "../img/depositphotos_67982979-stock-illustration-horizontally-seamless-game-background.jpg",
+    "name": "achtergrond"
+  },
+  {
+    "image": "../img/achterkant.jpg",
+    "name": "achterkant_kaart"
+  }
+]
