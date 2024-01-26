@@ -1,6 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+*{
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
 body {
-    min-height: 100vw;
-    min-width: 100vw;
+    min-height: 100vh;
+    min-width: 100vh;
     background-color: #12181f;
     color: white;
 }
@@ -49,8 +56,8 @@ p {
 }
 
 .front-image {
-    width: 60px;
-    height: 60px;
+    width: 130px;
+    height: 130px;
 }
 
 .card.flipped {
@@ -78,6 +85,9 @@ p {
     background-position: center center;
     background-size: cover;
     backface-visibility: hidden;
+    color: #7300ff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 100px;
 }
 
 .card .front {
